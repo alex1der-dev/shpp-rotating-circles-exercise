@@ -4,10 +4,10 @@ package com.shpp.p2p.cs.opidhaiko.assignment8_ext;
  *
  */
 
-import acm.graphics.GObject;
+import acm.graphics.*;
 import com.shpp.cs.a.graphics.WindowProgram;
 
-import java.awt.event.MouseEvent;
+import java.awt.event.*;
 
 public class Assignment8 extends WindowProgram implements ModelConstants {
 

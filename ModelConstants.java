@@ -20,9 +20,9 @@ public interface ModelConstants {
     /**
      * Radius of the ball in pixels
      */
-    int BALL_RADIUS = 20;
+    int BALL_RADIUS = 10;
 
-    int BALLS_AMOUNT = 9; //9,25,49
+    int BALLS_AMOUNT = 121; //9,25,49
 
     double SPEED = 1;
 
